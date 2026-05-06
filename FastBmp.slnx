@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FastBmpServer/FastBmpServer.csproj" />
+  <Project Path="FastBmpClient/FastBmpClient.csproj" Id="71a09fe6-52a2-47b1-9fc7-faad77280af4" />
+</Solution>
