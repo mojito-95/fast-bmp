@@ -41,14 +41,8 @@ This educational project implements an ultra-fast **Client-Server** system desig
 
 ## 💻 How to Run
 
-1.  **Start the server:** ```
-    bash
-    dotnet run --project FastBmpServer
-    ```
-2.  **In a separate terminal, run the client:** ```
-    bash
-    dotnet run --project FastBmpClient
-    ```
+1.  **Start the server:** dotnet run --project FastBmpServer
+2.  **In a separate terminal, run the client:** dotnet run --project FastBmpClient
 3.  **Monitor performance:** Use Windows Task Manager or `dotnet-counters` to observe RAM stability.
 
 ---
